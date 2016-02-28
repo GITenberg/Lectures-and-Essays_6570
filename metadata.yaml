@@ -1,0 +1,33 @@
+_repo: Lectures-and-Essays_6570
+creator:
+  author:
+    agent_name: Smith, Goldwin
+    birthdate: 1823
+    deathdate: 1910
+    gutenberg_agent_id: '2090'
+    url: http://www.gutenberg.org/2009/agents/2090
+    wikipedia: http://en.wikipedia.org/wiki/Goldwin_Smith
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian essays -- 19th century'
+- !lcc 'AC'
+tableOfContents: The greatness of the Romans -- The greatness of England -- The great
+  duel of the seventeenth century -- The lamps of fiction; a speech on the centenary
+  of the birth of Sir Walter Scott -- An address to the Oxford school of science and
+  art -- The ascent of man -- The proposed substitutes for religion -- The labour
+  movement -- What is culpable luxury? -- A true captain of industry [Mr. Brassey]
+  -- A wirepuller of kings [Baron Stockmar] -- The early years of the conqueror of
+  Quebec -- Falkland and the Puritans -- The early years of Abraham Lincoln -- Alfredus
+  Rex Fundator -- The last republicans of Rome -- Austen-Leigh's memoir of Jane Austen
+  -- Pattison's Milton -- Coleridge's life of Keble.
+title: Lectures and Essays
+url: http://www.gutenberg.org/ebooks/6570
